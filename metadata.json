@@ -1,0 +1,7 @@
+{
+  "name": "ERP Acciones Correctivas IA",
+  "description": "ERP especializado en la gestión estructurada y trazable de Acciones Correctivas con análisis de causa raíz asistido por IA privada.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
